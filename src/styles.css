@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 15rem;
+}
+
+.page-heading {
+  font-family: "Roboto", sans-serif;
+  font-size: 2rem;
+}
+
+.text-box {
+  width: 40vw;
+  height: 5vh;
+  font-size: 1rem;
+}
